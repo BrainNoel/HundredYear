@@ -1,0 +1,41 @@
+.login-body {
+    background-image: url('../img/admin_bg.jpg');
+}
+
+.green {
+    /*color: #1ABC9C;*/
+    border-color: #1ABC9C;
+    background-color: #1ABC9C;
+}
+
+.login-panel {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 300px;
+    height: 485px;
+    margin-top: -242px;
+    margin-left: -150px;
+}
+
+.login-panel-top {
+    height: 40%;
+    text-align: center;
+}
+
+.login-panel-bottom {
+    height: 60%;
+}
+
+.login-avatar {
+    display: inline-block;
+    width: 132px;
+    height: 132px;
+    border-radius: 50%;
+    background-image: url('../img/admin_avatar.png');
+}
+
+#username:target {
+    border-color: #1ABC9C;
+    background-color: #1ABC9C;
+}
