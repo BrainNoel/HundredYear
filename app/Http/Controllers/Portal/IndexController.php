@@ -1,11 +1,11 @@
-<?php namespace App\Http\Controllers\Admin;
+<?php namespace App\Http\Controllers\Portal;
 
 use App\Http\Requests;
 use App\Http\Controllers\Controller;
 
 use Illuminate\Http\Request;
 
-class LoginController extends Controller {
+class IndexController extends Controller {
 
 	/**
 	 * Display a listing of the resource.
@@ -14,7 +14,7 @@ class LoginController extends Controller {
 	 */
 	public function index()
 	{
-		return view('admin/login');
+		echo 'this is portal';
 	}
 
 	/**

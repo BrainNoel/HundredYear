@@ -11,13 +11,13 @@
 |
 */
 
-Route::get('/', 'WelcomeController@index');
-
-Route::get('home', 'HomeController@index');
-
-Route::controllers([
-	'auth' => 'Auth\AuthController',
-	'password' => 'Auth\PasswordController',
-]);
-
-Route::get('/admin', 'Admin\LoginController@index');
+// Route::get('/', 'WelcomeController@index');
+//
+// Route::get('home', 'HomeController@index');
+//
+// Route::controllers([
+// 	'auth' => 'Auth\AuthController',
+// 	'password' => 'Auth\PasswordController',
+// ]);
+Route::get('/', 'Portal\IndexController@index');
+Route::get('admin', 'Admin\LoginController@index');
