@@ -20,4 +20,4 @@ Route::controllers([
 	'password' => 'Auth\PasswordController',
 ]);
 
-Route::get('admin', 'Admin/LoginController@index');
+Route::get('/admin', 'Admin\LoginController@index');
