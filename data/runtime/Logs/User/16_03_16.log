@@ -12,3 +12,24 @@ INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001200s ]
 INFO: [ app_begin ] --END-- [ RunTime:0.003852s ]
 NOTIC: [8] Undefined index: url E:\www\HundredYear\application\Common\Controller\AppframeController.class.php 第 45 行.
 
+[ 2016-03-16T08:38:33+08:00 ] 127.0.0.1 /index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000959s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001310s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003351s ]
+NOTIC: [8] Undefined index: url E:\www\HundredYear\application\Common\Controller\AppframeController.class.php 第 45 行.
+
+[ 2016-03-16T08:45:59+08:00 ] 127.0.0.1 /index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001240s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.003250s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005655s ]
+NOTIC: [8] Undefined index: url E:\www\HundredYear\application\Common\Controller\AppframeController.class.php 第 45 行.
+
+[ 2016-03-16T08:48:28+08:00 ] 127.0.0.1 /index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000661s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001005s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002214s ]
+NOTIC: [8] Undefined index: url E:\www\HundredYear\application\Common\Controller\AppframeController.class.php 第 45 行.
+
