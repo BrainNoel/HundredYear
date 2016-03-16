@@ -1,0 +1,7 @@
+[ 2016-03-11T17:12:28+08:00 ] 127.0.0.1 /ThinkCMFX%201.6.1_20150624/index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001138s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001205s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003254s ]
+NOTIC: [8] Undefined index: url E:\www\ThinkCMFX 1.6.1_20150624\application\Common\Controller\AppframeController.class.php 第 45 行.
+

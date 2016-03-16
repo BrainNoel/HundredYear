@@ -1,0 +1,35 @@
+[ 2016-03-15T10:31:32+08:00 ] 127.0.0.1 /index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001929s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002065s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005889s ]
+NOTIC: [8] Undefined index: url E:\www\tainiuw\application\Common\Controller\AppframeController.class.php 第 45 行.
+
+[ 2016-03-15T10:32:14+08:00 ] 127.0.0.1 /index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001460s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.004329s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006833s ]
+NOTIC: [8] Undefined index: url E:\www\tainiuw\application\Common\Controller\AppframeController.class.php 第 45 行.
+
+[ 2016-03-15T10:32:18+08:00 ] 127.0.0.1 /index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001143s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001265s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003571s ]
+NOTIC: [8] Undefined index: url E:\www\tainiuw\application\Common\Controller\AppframeController.class.php 第 45 行.
+
+[ 2016-03-15T10:32:31+08:00 ] 127.0.0.1 /index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000653s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001133s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002304s ]
+NOTIC: [8] Undefined index: url E:\www\tainiuw\application\Common\Controller\AppframeController.class.php 第 45 行.
+
+[ 2016-03-15T10:32:35+08:00 ] 127.0.0.1 /index.php?g=user&m=index&a=is_login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000910s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001196s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002925s ]
+NOTIC: [8] Undefined index: url E:\www\tainiuw\application\Common\Controller\AppframeController.class.php 第 45 行.
+
